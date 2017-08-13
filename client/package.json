@@ -23,7 +23,10 @@
     "@angular/router": "^4.3.4",
     "bootstrap": "^3.3.7",
     "core-js": "^2.5.0",
+    "ng2-toasty": "^4.0.3",
+    "raven-js": "^3.17.0",
     "rxjs": "^5.4.3",
+    "underscore": "^1.8.3",
     "zone.js": "^0.8.16"
   },
   "devDependencies": {
